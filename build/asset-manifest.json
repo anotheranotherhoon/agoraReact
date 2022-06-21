@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agoraReact/static/css/main.558eca24.css",
+    "main.js": "/agoraReact/static/js/main.060c03a0.js",
+    "index.html": "/agoraReact/index.html",
+    "main.558eca24.css.map": "/agoraReact/static/css/main.558eca24.css.map",
+    "main.060c03a0.js.map": "/agoraReact/static/js/main.060c03a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.558eca24.css",
+    "static/js/main.060c03a0.js"
+  ]
+}
